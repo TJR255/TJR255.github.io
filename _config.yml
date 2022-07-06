@@ -1,1 +1,10 @@
 theme: jekyll-theme-modernist
+title: String type = "Hello, World!";
+description: I suppose starting as a Java programmer, it makes sense that I start with a line of Java code; perhaps if I find a more preferable language
+  (alternatively, one that is more susinct than Java), I will set this to be its "Hello, World!" message! But for now, this is the operational literal,
+  so yes, Hello, World! 
+  
+  I am a writer and community developer seeking to create spaces that are inclusive and led by empathy where information can travel openly. Admittedly new to code,
+  but realizing the potential it holds to create and innovate, I am excited for where my journey learning it may lead! Glad to have y'all along for the ride!
+  
+  Rock n Roll!
