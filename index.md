@@ -6,7 +6,7 @@ Here is an image I want to insert:
 
 The Map for the Game
 
-![Image](https://rpubs.com/Cons0L3_CowB0y/920481)
+[linkToGameMap](https://rpubs.com/Cons0L3_CowB0y/920481)
 
 You can use the [editor on GitHub](https://github.com/TJR255/TJR255.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
